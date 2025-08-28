@@ -387,7 +387,7 @@
   border: 0px solid;
   transform: translateY(10%);
   display: grid;
-  gap: 20px;
+  gap: 10px;
 }
 
 .card1:hover{
@@ -439,7 +439,7 @@
   padding: 30px;
   border: 0px solid;
   display: grid;
-  gap: 20px;
+  gap: 10px;
 }
 
 .four-cards{
@@ -516,7 +516,7 @@
   border: 0px solid;
   transform: translateY(10%);
   display: grid;
-  gap: 20px;
+  gap: 10px;
 }
 
 .point1{
