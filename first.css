@@ -386,6 +386,8 @@
   padding: 30px;
   border: 0px solid;
   transform: translateY(10%);
+  display: grid;
+  gap: 20px;
 }
 
 .card1:hover{
@@ -419,6 +421,7 @@
   text-decoration: none;
   color: rgba(0, 0, 0, 0.589);
   border: 1px solid rgba(0, 0, 0, 0.477);
+  width: 120px;
 }
 
 .card1-btn:hover{
@@ -435,6 +438,8 @@
   width: 25%;
   padding: 30px;
   border: 0px solid;
+  display: grid;
+  gap: 20px;
 }
 
 .four-cards{
@@ -510,6 +515,8 @@
   margin-top: 20px;
   border: 0px solid;
   transform: translateY(10%);
+  display: grid;
+  gap: 20px;
 }
 
 .point1{
@@ -529,7 +536,7 @@
   height: 20px;
   border-radius: 50px;
   position: absolute;
-  transform: translateX(1100%) translateY(-50%);
+  transform: translateX(1100%) translateY(-20%);
 }
 
 .point3{
@@ -539,7 +546,7 @@
   height: 20px;
   border-radius: 50px;
   position: absolute;
-  transform: translateX(120%) translateY(-90%);
+  transform: translateX(1100%) translateY(-10%);
 }
 
 .point4{
@@ -549,7 +556,7 @@
   height: 20px;
   border-radius: 50px;
   position: absolute;
-  transform: translateX(550%) translateY(-100%);
+  transform: translateX(1100%) translateY(-10%);
 }
 
 .card4{
@@ -562,6 +569,8 @@
   padding: 30px;
   margin-top: 20px;
   border: 0px solid;
+  display: grid;
+  gap: 10px;
 }
 
 .next-two{
